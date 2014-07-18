@@ -1,0 +1,24 @@
+﻿Terms of Conditions of License for the use of   Varnamala:
+Varnamala ©, Him Prasad Gautam (2012).
+
+All the softwares, documents and accessories packed  in  installation packages of each varnamala available in this repository   are the private and intelectual property of Him Prasad Gautam and all right are reserved.
+These software packages are  provided "as-is," without any express or implied warranty.
+In no event shall the developer be held liable for any damages arising from the use of this software.
+
+Permission is granted to anyone to use these software for any purpose, including commercial applications and redistribute it, provided that the following conditions are strictly met:
+1. All redistributions of this packages files must retain all copyright  notices that are currently in place, and this list of conditions without
+  modification.
+
+2. All redistributions in binary form must retain all occurrences of the above copyright notice.
+
+3. The origin of these softwares must not be misrepresented; no one can claim that he/she developed the softwares of this packages. If you use this software to distribute a product, an acknowledgment in the product documentation would be appreciated but is not mandatory. However, the identity of the developer must strictly  mentioned in all distributions.
+
+4. Modification, decompilation, alternation, repacking  etc. of source or binary form is strictly prohibited. 
+
+5. No one can sale or commercialize it. I have authorized for free distribution, keeping with or using it only.
+ In case of redistribution with commercial packages; there should not be any cost in the part of these  installation packages. 
+  ReDistribution in the original  form as they are packed with   the distribution price exemption is permitted.
+
+
+Him Prasad Gautam.
+Kathmandu, Nepal.
